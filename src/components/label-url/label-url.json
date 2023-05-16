@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_label_url_label_url_s",
+  "info": {
+    "displayName": "Label url "
+  },
+  "options": {},
+  "attributes": {
+    "button_label": {
+      "type": "string"
+    },
+    "button_url": {
+      "type": "string"
+    }
+  }
+}
