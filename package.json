@@ -10,6 +10,7 @@
     "strapi": "strapi"
   },
   "dependencies": {
+    "@strapi-community/strapi-plugin-url-alias": "^1.0.0-alpha.6",
     "@strapi/plugin-color-picker": "^4.10.2",
     "@strapi/plugin-i18n": "4.10.2",
     "@strapi/plugin-users-permissions": "4.10.2",

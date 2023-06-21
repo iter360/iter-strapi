@@ -1555,6 +1555,11 @@
     "escape-string-regexp" "^2.0.0"
     "lodash.deburr" "^4.1.0"
 
+"@strapi-community/strapi-plugin-url-alias@^1.0.0-alpha.6":
+  "integrity" "sha512-kivMVIeqhKITq/YWdgUwGv9fmYZDxlOBzz6+todhxCfAaGTifQX61+syJgcSxJv2BngkeMA4tzfRAEMoDOV61g=="
+  "resolved" "https://registry.npmjs.org/@strapi-community/strapi-plugin-url-alias/-/strapi-plugin-url-alias-1.0.0-alpha.6.tgz"
+  "version" "1.0.0-alpha.6"
+
 "@strapi/admin@4.10.2":
   "integrity" "sha512-W5Yl+GCK4YfPLCxPwZ+C7xJjq0M7xOU5/Hl5e2gzigcMmd3fDe4nu5DKOyoOo5ba2RVAzEAXf0DCTjlVlLENiQ=="
   "resolved" "https://registry.npmjs.org/@strapi/admin/-/admin-4.10.2.tgz"
@@ -1951,7 +1956,7 @@
     "@strapi/utils" "4.10.2"
     "fs-extra" "10.0.0"
 
-"@strapi/strapi@^4.3.4", "@strapi/strapi@^4.4.0", "@strapi/strapi@^4.9.0", "@strapi/strapi@4.10.2":
+"@strapi/strapi@^4.0.0", "@strapi/strapi@^4.3.4", "@strapi/strapi@^4.4.0", "@strapi/strapi@^4.9.0", "@strapi/strapi@4.10.2":
   "integrity" "sha512-5ATm1dTxCwyYHURMGsZroIKRHy+6XqZkRLPIcsMntO3i+rLO/0A84QMI8PTf9H1Gd1tSJ2JRNDNZR2IxdgySfA=="
   "resolved" "https://registry.npmjs.org/@strapi/strapi/-/strapi-4.10.2.tgz"
   "version" "4.10.2"
